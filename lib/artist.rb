@@ -1,2 +1,4 @@
-class Artist 
+class Artist
+  
+  attr_accessor
 end 
